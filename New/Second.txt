@@ -1,6 +1,3 @@
 Just as hidden
-<<<<<<< HEAD
 I don't need any help
-=======
 hhihiiihhiihihihihih
->>>>>>> 37a4617938cd7250e065dc787521944d954b28ad

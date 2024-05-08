@@ -1,1 +1,2 @@
 to get out of a sticky situation use ( :wq )
+control C to get you out of commnad block
